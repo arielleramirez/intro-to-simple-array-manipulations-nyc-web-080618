@@ -30,3 +30,7 @@ def using_insert(array, element)
   array.insert(element[5])
 end
 
+
+def using_insert(array, element)
+  array.insert(element[5])
+end
